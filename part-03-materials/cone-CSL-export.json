@@ -1,0 +1,27 @@
+{
+    "items": [
+        {
+            "id": "16051324/VJ8IEYID",
+            "type": "webpage",
+            "abstract": "A free and open-source reference guide that explains how to use Markdown.",
+            "language": "en",
+            "title": "Markdown Guide",
+            "URL": "https://www.markdownguide.org/",
+            "author": [
+                {
+                    "family": "Cone",
+                    "given": "Matt"
+                }
+            ],
+            "accessed": {
+                "date-parts": [
+                    [
+                        2026,
+                        3,
+                        3
+                    ]
+                ]
+            }
+        }
+    ]
+}
