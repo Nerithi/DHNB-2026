@@ -1,0 +1,7 @@
+Download the image from the following link:
+
+https://en.wikipedia.org/wiki/File:Obelix1.png#filelinks
+
+Rename to:
+
+obelix.png

@@ -1,0 +1,7 @@
+Download the image from the following link:
+
+https://upload.wikimedia.org/wikipedia/commons/2/2f/Asterix-Wandmalerei_Wuppertal.jpg
+
+Rename to:
+
+asterix.jpg
