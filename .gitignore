@@ -1,3 +1,11 @@
+## additional ignored file types
+*.jpg
+*.png
+
+### not ignored folders
+!part-01-materials/example-outputs/*.jpg
+!part-01-materials/example-outputs/*.png
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
